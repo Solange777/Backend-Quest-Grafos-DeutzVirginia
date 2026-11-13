@@ -1,0 +1,3 @@
+instalar estas librerias:
+streamlit
+networkx
